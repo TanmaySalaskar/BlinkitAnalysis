@@ -21,6 +21,18 @@ Total Sales by Item Type
 Fat Content by Outlet for Total Sales  
 ![image](https://github.com/user-attachments/assets/372a2756-6c3b-47c3-a83e-57c94a078ac6)  
 
+Total Sales by Outlet Establishment  
+![image](https://github.com/user-attachments/assets/6d2bcc56-ac66-4645-8646-40cc65054fcb)  
+
+Outlet Size Sales Contriution  
+![image](https://github.com/user-attachments/assets/a3640fcb-c56e-4f03-a916-edf3632f6b8a)  
+
+Sales by Outlet Location  
+![image](https://github.com/user-attachments/assets/ad1636be-6961-433d-a2e1-2a6f8f6706fa)
+
+
+
+
 
 
 
