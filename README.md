@@ -1,10 +1,14 @@
-IN THIS PROJECT WE GET THE DATA, CLEAN IT, ANALYZE IT AND MAKE MANIPULATION TO MAKE AN ANALYSIS AND GAIN MEANINGFUL INSIGTHS. DASHBOARDS, GRAPHS AND OTHER GRAPHICAL REPRESENTATIONS HAVE BEEN CREATED FOR BETTER UNDERSTANDING. PYTHON PROGRAMMING LANGUAGE IS USED FOR THIS PROJECT.  
+IN THIS PROJECT WE GET THE DATA, CLEAN IT, ANALYZE IT AND MAKE MANIPULATION TO MAKE AN ANALYSIS AND GAIN MEANINGFUL INSIGTHS. DASHBOARDS, GRAPHS AND OTHER GRAPHICAL REPRESENTATIONS HAVE BEEN CREATED FOR BETTER UNDERSTANDING. PYTHON PROGRAMMING LANGUAGE IS USED FOR THIS PROJECT. POWER BI SOFTWARE IS USED FOR VISUALIZATION AND BETTER ANALYSIS OF THE DATA
 
 1. Requirements.pptx - This file contains the questions or the business requirements for the data analysis.
 2. blinkit_data.csv - This file contains our entire data in CSV(Comma Separated Values) format.
 3. main.ipynb - This file has all the codes of our project.
+4. BlinkitAnalysis.pbix - This file contain the dashboards and all the visualization reports
 
-Examples:-
+Examples:-  
+
+![ss](https://github.com/user-attachments/assets/d76dbd22-b370-4593-9165-d3a06dbeb931)
+
 
 df.head(10)    
 ![image](https://github.com/user-attachments/assets/82f51dcd-2d19-4964-8971-a103539fe42d)  
